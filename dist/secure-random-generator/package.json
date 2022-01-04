@@ -1,24 +1,33 @@
 {
-    "name": "@siva7170/inw-secure-random-generator",
-    "version": "0.0.2",
-    "description": "Ionic Native wrapper for secure random generator",
-    "main": "bundle.js",
-    "module": "index.js",
-    "typings": "index.d.ts",
-    "author": "Siva",
-    "publishConfig": {
-        "access": "public"
-    },
-    "keywords": [
-        "secure random generator",
-        "ionic wrapper secure random generator",
-        "ionic random generator",
-        "random generator"
-    ],
-    "dependencies": {
-        "@types/cordova": "latest"
-    },
-    "peerDependencies": {
-        "@awesome-cordova-plugins/core": "^5.37.3"
-    }
+  "name": "@siva7170/inw-secure-random-generator",
+  "version": "0.0.3",
+  "description": "Ionic Native wrapper for secure random generator",
+  "main": "bundle.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "author": "Siva",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siva7170/inw-secure-random-generator"
+  },
+  "keywords": [
+    "secure random generator",
+    "ionic wrapper secure random generator",
+    "ionic random generator",
+    "random generator"
+  ],
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "peerDependencies": {
+    "@awesome-cordova-plugins/core": "^5.37.3"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siva7170/inw-secure-random-generator/issues"
+  },
+  "homepage": "https://github.com/siva7170/inw-secure-random-generator#readme"
 }
